@@ -1,0 +1,13 @@
+C:\Users\wojte\OneDrive\Pulpit\c_hasz\PKhasz\ChashKomponent\obj\Debug\ChashKomponent.csprojAssemblyReference.cache
+C:\Users\wojte\OneDrive\Pulpit\c_hasz\PKhasz\ChashKomponent\obj\Debug\ChashKomponent.Form1.resources
+C:\Users\wojte\OneDrive\Pulpit\c_hasz\PKhasz\ChashKomponent\obj\Debug\ChashKomponent.Properties.Resources.resources
+C:\Users\wojte\OneDrive\Pulpit\c_hasz\PKhasz\ChashKomponent\obj\Debug\ChashKomponent.csproj.GenerateResource.cache
+C:\Users\wojte\OneDrive\Pulpit\c_hasz\PKhasz\ChashKomponent\obj\Debug\ChashKomponent.csproj.CoreCompileInputs.cache
+C:\Users\wojte\OneDrive\Pulpit\c_hasz\PKhasz\ChashKomponent\bin\Debug\ChashKomponent.exe.config
+C:\Users\wojte\OneDrive\Pulpit\c_hasz\PKhasz\ChashKomponent\bin\Debug\ChashKomponent.exe
+C:\Users\wojte\OneDrive\Pulpit\c_hasz\PKhasz\ChashKomponent\bin\Debug\ChashKomponent.pdb
+C:\Users\wojte\OneDrive\Pulpit\c_hasz\PKhasz\ChashKomponent\bin\Debug\PKpasswordLib.dll
+C:\Users\wojte\OneDrive\Pulpit\c_hasz\PKhasz\ChashKomponent\bin\Debug\PKpasswordLib.pdb
+C:\Users\wojte\OneDrive\Pulpit\c_hasz\PKhasz\ChashKomponent\obj\Debug\ChashKomponent.csproj.CopyComplete
+C:\Users\wojte\OneDrive\Pulpit\c_hasz\PKhasz\ChashKomponent\obj\Debug\ChashKomponent.exe
+C:\Users\wojte\OneDrive\Pulpit\c_hasz\PKhasz\ChashKomponent\obj\Debug\ChashKomponent.pdb
